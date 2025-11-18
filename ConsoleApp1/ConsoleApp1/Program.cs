@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             ConsoleApp1.WriteLine("Hello Artem!");
+            Console.WriteLine("Bye");
         }
     }
 }
